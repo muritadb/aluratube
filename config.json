@@ -129,11 +129,17 @@
         "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
         "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
       }
-    ],
-    "favorites" : [
+    ], 
+    "alura-favorites":[
       {
-        "id" : "omariosouto",
-        "profile-image" : "https://avatars.githubusercontent.com/u/13791385?v=4"
+        "title" : "omariosouto",
+        "url": "https://github.com/omariosouto",
+        "thumb" : "https://avatars.githubusercontent.com/u/13791385?v=4"
+      },
+      {
+        "title" : "murita",
+        "url": "https://github.com/muritadb",
+        "thumb" : "https://avatars.githubusercontent.com/u/19556950?v=4"
       }
     ]
   }

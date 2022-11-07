@@ -76,9 +76,7 @@ function Header() {
 }
 
 function TimeLine(props) {
-  console.log('dentro do components,', props)
   const playlistNames = Object.keys(props.playlists)
-
   return (
     <StyledTimeline>
       {playlistNames.map(playlistName => {
