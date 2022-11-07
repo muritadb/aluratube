@@ -2,6 +2,7 @@
   "name": "Douglas Murita",
   "job": "FrontEnd Developer",
   "github": "muritadb",
+  "banner" : "https://images.unsplash.com/photo-1456324463128-7ff6903988d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
   "playlists": {
     "jogos": [
       {
@@ -127,6 +128,12 @@
         "title": "O que é o C#? #HipstersPontoTube",
         "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
         "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ],
+    "favorites" : [
+      {
+        "id" : "omariosouto",
+        "profile-image" : "https://avatars.githubusercontent.com/u/13791385?v=4"
       }
     ]
   }
