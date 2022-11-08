@@ -8,7 +8,7 @@ import { StyledTimeline } from '../src/components/Timeline'
 function HomePage() {
 
   //const valorDoFiltro = 'Frost'
-  const [valorDoFiltro, setValorDoFiltro] = React.useState('Angular')
+  const [valorDoFiltro, setValorDoFiltro] = React.useState('')
 
   return (
     <>
